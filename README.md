@@ -21,7 +21,7 @@ npm start
 ```
 
 Open:</br>
-• http://localhost:4000/api/v1/marvel-actors to see the which marvel movies did each actor play in.</br>
+• http://localhost:4000/api/v1/marvel-actors to see which marvel movies did each actor play in.</br>
 • http://localhost:4000/api/v1/marvel-actors-multiple-characters to see the actors who played more than one Marvel character.
 
 ## Use Docker
